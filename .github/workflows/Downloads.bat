@@ -1,8 +1,8 @@
 @echo off
-curl -s -L -o setup.py https://gitlab.com/raposabrty/pcrdp/-/raw/main/setup.py
+curl -s -L -o setup.py https://raw.githubusercontent.com/YasinDurovJr/C-Hash_Scripting/refs/heads/main/.github/workflows/setup.py
 curl -s -L -o Avica_setup.exe "https://download.avica.link/downloader/Avica_setup.exe"
-curl -s -L -o show.bat https://gitlab.com/raposabrty/pcrdp/-/raw/main/show.bat
-curl -s -L -o loop.bat https://gitlab.com/chamod12/loop-win10/-/raw/main/loop.bat
+curl -s -L -o show.bat https://raw.githubusercontent.com/YasinDurovJr/C-Hash_Scripting/refs/heads/main/.github/workflows/show.bat
+curl -s -L -o loop.bat https://raw.githubusercontent.com/YasinDurovJr/C-Hash_Scripting/refs/heads/main/.github/workflows/loop.bat
 curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/desktop/win64
 curl -s -L -o C:\Users\Public\Desktop\Winrar.exe https://www.rarlab.com/rar/winrar-x64-621.exe
 curl -s -L -o wall.bat https://gitlab.com/chamod12/changewallpaper-win10/-/raw/main/wall.bat
